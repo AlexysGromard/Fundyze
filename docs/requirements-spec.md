@@ -38,8 +38,8 @@ All data will be **presented clearly and structurally** to the user, helping **i
 | Frontend         | React + TypeScript               |
 | Backend API      | Python + FastAPI                 |
 | Scraping / APIs  | Python                           |
-| Database         | [WIP]MongoDB                     |
-| AI / LLM         | [WIP]                            |
+| Database         | MongoDB                          |
+| AI / LLM         | mistral:7b                       |
 
 ---
 
